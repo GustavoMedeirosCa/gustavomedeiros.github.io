@@ -23,7 +23,7 @@ export const NavBar = () => {
                             <a href="#"><img src={''} alt="" /></a>
                             <a href="#"><img src={''} alt="" /></a>
                         </div>
-                        <button className='vvd' onClick={()=>console.log('connect')}><span>Let's Connect</span>
+                        <button className='vvd' onClick={()=>console.log('connect')} /><span>Let's Connect</span>
                     </span>
                 </Navbar.Collapse>
             </Container>
