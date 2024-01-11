@@ -7,7 +7,7 @@ export const NavBar = () => {
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container>
                 <Navbar.Brand href="#home">
-                    <img src={''} alt="Logo" />
+                    <img src={'Logo.html'} alt="Logo" />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <span className='navbar-toggler-icon'></span>
@@ -17,6 +17,14 @@ export const NavBar = () => {
                         <Nav.Link href="#skills">Skills</Nav.Link>
                         <Nav.Link href="#projects">Projects</Nav.Link>
                     </Nav>
+                    <span className='navbar-text'>
+                        <div className='social-icon'>
+                            <a href="#"><img src={''} alt="" /></a>
+                            <a href="#"><img src={''} alt="" /></a>
+                            <a href="#"><img src={''} alt="" /></a>
+                        </div>
+                        <button className='vvd' onClick={()=>console.log('connect')}><span>Let's Connect</span>
+                    </span>
                 </Navbar.Collapse>
             </Container>
         </Navbar>
