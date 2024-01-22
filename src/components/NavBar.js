@@ -34,6 +34,7 @@ export const NavBar = () => {
 
   return (
     <Router>
+      <title>Persoonal Portifólio</title>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
           <Navbar.Brand href="/">
