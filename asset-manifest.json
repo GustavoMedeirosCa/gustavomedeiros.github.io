@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gustavomedeiros.github.io/static/css/main.ecb172e7.css",
-    "main.js": "/gustavomedeiros.github.io/static/js/main.c4f320b0.js",
+    "main.js": "/gustavomedeiros.github.io/static/js/main.8ab8c49c.js",
     "static/js/787.ead4c344.chunk.js": "/gustavomedeiros.github.io/static/js/787.ead4c344.chunk.js",
     "static/media/CentraNo2-Bold.ttf": "/gustavomedeiros.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/gustavomedeiros.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -12,11 +12,11 @@
     "static/media/nav-icon1.svg": "/gustavomedeiros.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/gustavomedeiros.github.io/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.ecb172e7.css.map": "/gustavomedeiros.github.io/static/css/main.ecb172e7.css.map",
-    "main.c4f320b0.js.map": "/gustavomedeiros.github.io/static/js/main.c4f320b0.js.map",
+    "main.8ab8c49c.js.map": "/gustavomedeiros.github.io/static/js/main.8ab8c49c.js.map",
     "787.ead4c344.chunk.js.map": "/gustavomedeiros.github.io/static/js/787.ead4c344.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecb172e7.css",
-    "static/js/main.c4f320b0.js"
+    "static/js/main.8ab8c49c.js"
   ]
 }
